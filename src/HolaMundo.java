@@ -6,5 +6,7 @@ public class HolaMundo {
 
     private static void saludar() {
         System.out.println("Hello world!");
+        System.out.println("¡Hola Mundo!");
+        System.out.println("Hallo Welt!");
     }
 }
